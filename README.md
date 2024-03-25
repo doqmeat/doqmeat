@@ -1,3 +1,3 @@
-## welcome to my GitHub page!
+## hello! ο(=•ω＜=)ρ⌒☆
 
-<img src="nyancat.gif"> info and projects @ [doqmeat.github.io](https://doqmeat.github.io/) !!!
+<img src="nyancat.gif"> me on the interwebs -> [doqmeat.com](https://doqmeat.com) !!!
