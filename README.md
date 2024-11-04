@@ -1,6 +1,6 @@
 ## hai ο(=•ω ＜=)ρ⌒☆ <img src="nyancat.gif">
 
-i like doing stuff with HTML
+i like doing stuff with HTML. coding since 2023 so be nice to me.
 
 [personal website](https://github.com/doqmeat/doqmeat.com) → <a href="https://doqmeat.com" target="_blank">doqmeat.com</a>
 
