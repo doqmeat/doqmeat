@@ -1,4 +1,4 @@
-## hai ο(=•ω ＜=)ρ⌒☆ <img src="nyancat.gif">
+## hai ο(=•ω ＜=)ρ⌒☆ <img src="nyancat.gif" alt="nyancat">
 
 i like doing stuff with HTML. coding since 2023 so be nice to me.
 
