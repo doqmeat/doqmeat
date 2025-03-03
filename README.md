@@ -2,6 +2,8 @@
 
 i like doing stuff with HTML. coding since 2023 so be nice to me.
 
+portfolio site @ [desteny.me](https://desteny.me)
+
 [personal website](https://github.com/doqmeat/doqmeat.com) → <a href="https://doqmeat.com" target="_blank">doqmeat.com</a>
 
 [siinamota fansite](https://github.com/doqmeat/siinamota-fansite) → <a href="https://siinamota.doqmeat.com" target="_blank">siinamota.doqmeat.com</a>
