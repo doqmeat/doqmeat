@@ -2,13 +2,7 @@
 
 i like doing stuff with HTML. coding since 2023 so be nice to me.
 
-portfolio site @ [desteny.me](https://desteny.me)
-
-[personal website](https://github.com/doqmeat/doqmeat.com) → <a href="https://doqmeat.com" target="_blank">doqmeat.com</a>
-
-[siinamota fansite](https://github.com/doqmeat/siinamota-fansite) → <a href="https://siinamota.doqmeat.com" target="_blank">siinamota.doqmeat.com</a>
-
-free to use [HTML templates](https://github.com/doqmeat/HTML-templates)
+portfolio(ish?) site @ [desteny.me](https://desteny.me) with my projects and stuff :3 my personal site is @ <a href="https://doqmeat.com" target="_blank">doqmeat.com</a>
 
 ### i love these badges they are the deviantart stamps of github
 
