@@ -2,7 +2,9 @@
 
 i like doing stuff with HTML. coding since 2023 so be nice to me.
 
-my personal site is @ <a href="https://doqmeat.com" target="_blank">doqmeat.com</a> / portfolio @ [desteny.me](https://desteny.me) with my projects and stuff :3 
+my personal site is @ <a href="https://doqmeat.com" target="_blank">doqmeat.com</a> / portfolio @ [desteny.me](https://desteny.me)
+
+my HTML templates are over at [tangled.org](https://tangled.org/doqmeat.com)!
 
 ### i love these badges they are the deviantart stamps of github
 
